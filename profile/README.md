@@ -14,7 +14,7 @@
 </p>
 <h2>Join the team!</h2>
 <p>
-  We're currently looking for Python and React developers to contribute to this exciting project. If you have experience in either of these languages, we'd love to hear from you.
+  We're currently looking for Python and React developers to contribute to this exciting project. If you have experience in either of these languages, <b>or</b> if you're a dungeon master, we'd love to hear from you on our <a href="https://discord.gg/a5W79hJydv">Discord server</a>.
 </p>
 <h2>Join Our Community</h2>
 <p>
