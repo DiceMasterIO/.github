@@ -4,8 +4,8 @@
 </head>
 <body>
 <div align="center">
-  <a href="https://github.com/DiceMasterIO">
-    <img src="https://discord.gg/a5W79hJydv" alt="DiceMasterIO">
+  <a href="https://discord.gg/a5W79hJydv">
+    <img src="https://avatars.githubusercontent.com/u/131033846?s=400&u=62c8b7199fb967f64c05d224f2f8d77990aa08d5&v=4" alt="DiceMasterIO">
   </a>
   <h1><b>DiceMasterIO</b></h1>
 </div>
