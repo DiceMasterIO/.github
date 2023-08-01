@@ -10,7 +10,7 @@
   <h1><b>DiceMasterIO</b></h1>
 </div>
 <p>
-  Welcome to the official Github repository of <b>DiceMasterIO</b>! We're working on creating a fully automated Dungeons & Dragons game, hosted as a Discord bot and a web application. Our unique approach is to leverage innovative AI technologies to provide a rich and immersive gaming experience.
+  Welcome to the official Github organization of <b>DiceMasterIO</b>! We're working on creating a fully automated Dungeons & Dragons game, hosted as a Discord bot and a web application. Our unique approach is to leverage innovative AI technologies to provide a rich and immersive gaming experience.
 </p>
 <h2>Join the team!</h2>
 <p>
